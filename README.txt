@@ -16,3 +16,5 @@ CS 260
 3.) Data structures and more advanced algorithms (for now)
 4.) Remembering syntax for multiple languages
 5.) Learning all of the helpful keyboard shortcuts for VS, etc.
+
+Public repo link for this course: https://github.com/FairgrieveCS/cs260
